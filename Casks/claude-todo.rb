@@ -7,7 +7,7 @@ cask "claude-todo" do
   desc "Menu bar app and widget showing unfinished work across Claude Code sessions"
   homepage "https://github.com/muhammederem/claude-todo"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "ClaudeTodo.app"
 
