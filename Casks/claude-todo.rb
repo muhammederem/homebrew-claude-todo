@@ -1,6 +1,6 @@
 cask "claude-todo" do
-  version "1.1.0"
-  sha256 "2dbe16a0266e07a28f4de6792209e138a6ae879eaf0f37596f51efd256bb997c"
+  version "1.1.1"
+  sha256 "17992bd2ec715daf7024517b028b0032b223c0219da15f00c21a3594d93c04ec"
 
   url "https://github.com/muhammederem/claude-todo/releases/download/v#{version}/ClaudeTodo.dmg"
   name "Claude To-Do"
