@@ -1,6 +1,6 @@
 cask "claude-todo" do
-  version "1.2.0"
-  sha256 "5ea7751901ce6d25f34349963a9474cc3b5a551265563d7c13609f2ed8b8faf8"
+  version "1.2.1"
+  sha256 "40e2e553b0565071903428b6f8addf1e31f6866767926cb2710a3a7a828a833b"
 
   url "https://github.com/muhammederem/claude-todo/releases/download/v#{version}/Leftovers.dmg"
   name "Leftovers"
